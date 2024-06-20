@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Necnat.Abp.NnLibCommon.Application.Contracts" Version="0.1.11" />
     <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.1.4" />
     <PackageReference Include="Volo.Abp.Authorization" Version="8.1.4" />
     <ProjectReference Include="..\Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Shared\Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Shared.csproj" />

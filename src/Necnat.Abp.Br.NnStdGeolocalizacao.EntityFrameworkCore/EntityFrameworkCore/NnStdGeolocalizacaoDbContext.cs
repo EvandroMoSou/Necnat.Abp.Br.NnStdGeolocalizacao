@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Necnat.Abp.Br.NnStdGeolocalizacao.Domains;
 using Volo.Abp.Data;
 using Volo.Abp.EntityFrameworkCore;
 
@@ -10,6 +11,7 @@ public class NnStdGeolocalizacaoDbContext : AbpDbContext<NnStdGeolocalizacaoDbCo
     /* Add DbSet for each Aggregate Root here. Example:
      * public DbSet<Question> Questions { get; set; }
      */
+    public DbSet<Pais> Pais { get; set; }
 
     public NnStdGeolocalizacaoDbContext(DbContextOptions<NnStdGeolocalizacaoDbContext> options)
         : base(options)

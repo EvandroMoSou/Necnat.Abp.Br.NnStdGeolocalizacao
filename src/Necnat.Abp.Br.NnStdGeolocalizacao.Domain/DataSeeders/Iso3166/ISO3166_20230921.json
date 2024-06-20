@@ -1,0 +1,1994 @@
+[
+  {
+    "Nome": "Afeganistão",
+    "NomeIngles": "Afghanistan",
+    "NomeFrances": "Afghanistan (l')",
+    "CodigoIso3166Alpha2": "AF",
+    "CodigoIso3166Alpha3": "AFG",
+    "CodigoIso3166Numeric": "004"
+  },
+  {
+    "Nome": "Ilhas Aland (Ilhas Alanda)",
+    "NomeIngles": "Åland Islands",
+    "NomeFrances": "Åland(les Îles)",
+    "CodigoIso3166Alpha2": "AX",
+    "CodigoIso3166Alpha3": "ALA",
+    "CodigoIso3166Numeric": "248"
+  },
+  {
+    "Nome": "Albânia",
+    "NomeIngles": "Albania",
+    "NomeFrances": "Albanie (l')",
+    "CodigoIso3166Alpha2": "AL",
+    "CodigoIso3166Alpha3": "ALB",
+    "CodigoIso3166Numeric": "008"
+  },
+  {
+    "Nome": "Argélia",
+    "NomeIngles": "Algeria",
+    "NomeFrances": "Algérie (l')",
+    "CodigoIso3166Alpha2": "DZ",
+    "CodigoIso3166Alpha3": "DZA",
+    "CodigoIso3166Numeric": "012"
+  },
+  {
+    "Nome": "Samoa Americana",
+    "NomeIngles": "American Samoa",
+    "NomeFrances": "Samoa américaines (les)",
+    "CodigoIso3166Alpha2": "AS",
+    "CodigoIso3166Alpha3": "ASM",
+    "CodigoIso3166Numeric": "016"
+  },
+  {
+    "Nome": "Andorra",
+    "NomeIngles": "Andorra",
+    "NomeFrances": "Andorre (l')",
+    "CodigoIso3166Alpha2": "AD",
+    "CodigoIso3166Alpha3": "AND",
+    "CodigoIso3166Numeric": "020"
+  },
+  {
+    "Nome": "Angola",
+    "NomeIngles": "Angola",
+    "NomeFrances": "Angola (l')",
+    "CodigoIso3166Alpha2": "AO",
+    "CodigoIso3166Alpha3": "AGO",
+    "CodigoIso3166Numeric": "024"
+  },
+  {
+    "Nome": "Anguilla",
+    "NomeIngles": "Anguilla",
+    "NomeFrances": "Anguilla",
+    "CodigoIso3166Alpha2": "AI",
+    "CodigoIso3166Alpha3": "AIA",
+    "CodigoIso3166Numeric": "660"
+  },
+  {
+    "Nome": "Antártida",
+    "NomeIngles": "Antarctica",
+    "NomeFrances": "Antarctique (l')",
+    "CodigoIso3166Alpha2": "AQ",
+    "CodigoIso3166Alpha3": "ATA",
+    "CodigoIso3166Numeric": "010"
+  },
+  {
+    "Nome": "Antígua e Barbuda",
+    "NomeIngles": "Antigua and Barbuda",
+    "NomeFrances": "Antigua-et-Barbuda",
+    "CodigoIso3166Alpha2": "AG",
+    "CodigoIso3166Alpha3": "ATG",
+    "CodigoIso3166Numeric": "028"
+  },
+  {
+    "Nome": "Argentina",
+    "NomeIngles": "Argentina",
+    "NomeFrances": "Argentine (l')",
+    "CodigoIso3166Alpha2": "AR",
+    "CodigoIso3166Alpha3": "ARG",
+    "CodigoIso3166Numeric": "032"
+  },
+  {
+    "Nome": "Armênia",
+    "NomeIngles": "Armenia",
+    "NomeFrances": "Arménie (l')",
+    "CodigoIso3166Alpha2": "AM",
+    "CodigoIso3166Alpha3": "ARM",
+    "CodigoIso3166Numeric": "051"
+  },
+  {
+    "Nome": "Aruba",
+    "NomeIngles": "Aruba",
+    "NomeFrances": "Aruba",
+    "CodigoIso3166Alpha2": "AW",
+    "CodigoIso3166Alpha3": "ABW",
+    "CodigoIso3166Numeric": "533"
+  },
+  {
+    "Nome": "Austrália",
+    "NomeIngles": "Australia",
+    "NomeFrances": "Australie (l')",
+    "CodigoIso3166Alpha2": "AU",
+    "CodigoIso3166Alpha3": "AUS",
+    "CodigoIso3166Numeric": "036"
+  },
+  {
+    "Nome": "Áustria",
+    "NomeIngles": "Austria",
+    "NomeFrances": "Autriche (l')",
+    "CodigoIso3166Alpha2": "AT",
+    "CodigoIso3166Alpha3": "AUT",
+    "CodigoIso3166Numeric": "040"
+  },
+  {
+    "Nome": "Azerbaijão",
+    "NomeIngles": "Azerbaijan",
+    "NomeFrances": "Azerbaïdjan (l')",
+    "CodigoIso3166Alpha2": "AZ",
+    "CodigoIso3166Alpha3": "AZE",
+    "CodigoIso3166Numeric": "031"
+  },
+  {
+    "Nome": "Bahamas",
+    "NomeIngles": "Bahamas (the)",
+    "NomeFrances": "Bahamas (les)",
+    "CodigoIso3166Alpha2": "BS",
+    "CodigoIso3166Alpha3": "BHS",
+    "CodigoIso3166Numeric": "044"
+  },
+  {
+    "Nome": "Barein (Bahrein)",
+    "NomeIngles": "Bahrain",
+    "NomeFrances": "Bahreïn",
+    "CodigoIso3166Alpha2": "BH",
+    "CodigoIso3166Alpha3": "BHR",
+    "CodigoIso3166Numeric": "048"
+  },
+  {
+    "Nome": "Bangladesh",
+    "NomeIngles": "Bangladesh",
+    "NomeFrances": "Bangladesh (le)",
+    "CodigoIso3166Alpha2": "BD",
+    "CodigoIso3166Alpha3": "BGD",
+    "CodigoIso3166Numeric": "050"
+  },
+  {
+    "Nome": "Barbados",
+    "NomeIngles": "Barbados",
+    "NomeFrances": "Barbade (la)",
+    "CodigoIso3166Alpha2": "BB",
+    "CodigoIso3166Alpha3": "BRB",
+    "CodigoIso3166Numeric": "052"
+  },
+  {
+    "Nome": "Bielorrússia",
+    "NomeIngles": "Belarus",
+    "NomeFrances": "Bélarus (le)",
+    "CodigoIso3166Alpha2": "BY",
+    "CodigoIso3166Alpha3": "BLR",
+    "CodigoIso3166Numeric": "112"
+  },
+  {
+    "Nome": "Bélgica",
+    "NomeIngles": "Belgium",
+    "NomeFrances": "Belgique (la)",
+    "CodigoIso3166Alpha2": "BE",
+    "CodigoIso3166Alpha3": "BEL",
+    "CodigoIso3166Numeric": "056"
+  },
+  {
+    "Nome": "Belize",
+    "NomeIngles": "Belize",
+    "NomeFrances": "Belize (le)",
+    "CodigoIso3166Alpha2": "BZ",
+    "CodigoIso3166Alpha3": "BLZ",
+    "CodigoIso3166Numeric": "084"
+  },
+  {
+    "Nome": "Benim",
+    "NomeIngles": "Benin",
+    "NomeFrances": "Bénin (le)",
+    "CodigoIso3166Alpha2": "BJ",
+    "CodigoIso3166Alpha3": "BEN",
+    "CodigoIso3166Numeric": "204"
+  },
+  {
+    "Nome": "Bermudas",
+    "NomeIngles": "Bermuda",
+    "NomeFrances": "Bermudes (les)",
+    "CodigoIso3166Alpha2": "BM",
+    "CodigoIso3166Alpha3": "BMU",
+    "CodigoIso3166Numeric": "060"
+  },
+  {
+    "Nome": "Butão",
+    "NomeIngles": "Bhutan",
+    "NomeFrances": "Bhoutan (le)",
+    "CodigoIso3166Alpha2": "BT",
+    "CodigoIso3166Alpha3": "BTN",
+    "CodigoIso3166Numeric": "064"
+  },
+  {
+    "Nome": "Bolívia",
+    "NomeIngles": "Bolivia (Plurinational State of)",
+    "NomeFrances": "Bolivie (État plurinational de)",
+    "CodigoIso3166Alpha2": "BO",
+    "CodigoIso3166Alpha3": "BOL",
+    "CodigoIso3166Numeric": "068"
+  },
+  {
+    "Nome": "Bonaire",
+    "NomeIngles": "Bonaire, Sint Eustatius and Saba",
+    "NomeFrances": "Bonaire, Saint-Eustache et Saba",
+    "CodigoIso3166Alpha2": "BQ",
+    "CodigoIso3166Alpha3": "BES",
+    "CodigoIso3166Numeric": "535"
+  },
+  {
+    "Nome": "Bósnia e Herzegovina",
+    "NomeIngles": "Bosnia and Herzegovina",
+    "NomeFrances": "Bosnie-Herzégovine (la)",
+    "CodigoIso3166Alpha2": "BA",
+    "CodigoIso3166Alpha3": "BIH",
+    "CodigoIso3166Numeric": "070"
+  },
+  {
+    "Nome": "Botsuana",
+    "NomeIngles": "Botswana",
+    "NomeFrances": "Botswana (le)",
+    "CodigoIso3166Alpha2": "BW",
+    "CodigoIso3166Alpha3": "BWA",
+    "CodigoIso3166Numeric": "072"
+  },
+  {
+    "Nome": "Ilha Bouvet",
+    "NomeIngles": "Bouvet Island",
+    "NomeFrances": "Bouvet (l'Île)",
+    "CodigoIso3166Alpha2": "BV",
+    "CodigoIso3166Alpha3": "BVT",
+    "CodigoIso3166Numeric": "074"
+  },
+  {
+    "Nome": "Brasil",
+    "NomeIngles": "Brazil",
+    "NomeFrances": "Brésil (le)",
+    "CodigoIso3166Alpha2": "BR",
+    "CodigoIso3166Alpha3": "BRA",
+    "CodigoIso3166Numeric": "076"
+  },
+  {
+    "Nome": "Território Britânico do Oceano Índico (Território do Oceano Índico Britânico)",
+    "NomeIngles": "British Indian Ocean Territory (the)",
+    "NomeFrances": "Indien (le Territoire britannique de l'océan)",
+    "CodigoIso3166Alpha2": "IO",
+    "CodigoIso3166Alpha3": "IOT",
+    "CodigoIso3166Numeric": "086"
+  },
+  {
+    "Nome": "Brunei",
+    "NomeIngles": "Brunei Darussalam",
+    "NomeFrances": "Brunéi Darussalam (le)",
+    "CodigoIso3166Alpha2": "BN",
+    "CodigoIso3166Alpha3": "BRN",
+    "CodigoIso3166Numeric": "096"
+  },
+  {
+    "Nome": "Bulgária",
+    "NomeIngles": "Bulgaria",
+    "NomeFrances": "Bulgarie (la)",
+    "CodigoIso3166Alpha2": "BG",
+    "CodigoIso3166Alpha3": "BGR",
+    "CodigoIso3166Numeric": "100"
+  },
+  {
+    "Nome": "Burquina Fasso",
+    "NomeIngles": "Burkina Faso",
+    "NomeFrances": "Burkina Faso (le)",
+    "CodigoIso3166Alpha2": "BF",
+    "CodigoIso3166Alpha3": "BFA",
+    "CodigoIso3166Numeric": "854"
+  },
+  {
+    "Nome": "Burundi",
+    "NomeIngles": "Burundi",
+    "NomeFrances": "Burundi (le)",
+    "CodigoIso3166Alpha2": "BI",
+    "CodigoIso3166Alpha3": "BDI",
+    "CodigoIso3166Numeric": "108"
+  },
+  {
+    "Nome": "Cabo Verde",
+    "NomeIngles": "Cabo Verde",
+    "NomeFrances": "Cabo Verde",
+    "CodigoIso3166Alpha2": "CV",
+    "CodigoIso3166Alpha3": "CPV",
+    "CodigoIso3166Numeric": "132"
+  },
+  {
+    "Nome": "Camboja (Cambodja)",
+    "NomeIngles": "Cambodia",
+    "NomeFrances": "Cambodge (le)",
+    "CodigoIso3166Alpha2": "KH",
+    "CodigoIso3166Alpha3": "KHM",
+    "CodigoIso3166Numeric": "116"
+  },
+  {
+    "Nome": "Camarões",
+    "NomeIngles": "Cameroon",
+    "NomeFrances": "Cameroun (le)",
+    "CodigoIso3166Alpha2": "CM",
+    "CodigoIso3166Alpha3": "CMR",
+    "CodigoIso3166Numeric": "120"
+  },
+  {
+    "Nome": "Canadá",
+    "NomeIngles": "Canada",
+    "NomeFrances": "Canada (le)",
+    "CodigoIso3166Alpha2": "CA",
+    "CodigoIso3166Alpha3": "CAN",
+    "CodigoIso3166Numeric": "124"
+  },
+  {
+    "Nome": "Ilhas Cayman",
+    "NomeIngles": "Cayman Islands (the)",
+    "NomeFrances": "Caïmans (les Îles)",
+    "CodigoIso3166Alpha2": "KY",
+    "CodigoIso3166Alpha3": "CYM",
+    "CodigoIso3166Numeric": "136"
+  },
+  {
+    "Nome": "República Centro-Africana",
+    "NomeIngles": "Central African Republic (the)",
+    "NomeFrances": "République centrafricaine (la)",
+    "CodigoIso3166Alpha2": "CF",
+    "CodigoIso3166Alpha3": "CAF",
+    "CodigoIso3166Numeric": "140"
+  },
+  {
+    "Nome": "Tchade",
+    "NomeIngles": "Chad",
+    "NomeFrances": "Tchad (le)",
+    "CodigoIso3166Alpha2": "TD",
+    "CodigoIso3166Alpha3": "TCD",
+    "CodigoIso3166Numeric": "148"
+  },
+  {
+    "Nome": "Chile",
+    "NomeIngles": "Chile",
+    "NomeFrances": "Chili (le)",
+    "CodigoIso3166Alpha2": "CL",
+    "CodigoIso3166Alpha3": "CHL",
+    "CodigoIso3166Numeric": "152"
+  },
+  {
+    "Nome": "China",
+    "NomeIngles": "China",
+    "NomeFrances": "Chine (la)",
+    "CodigoIso3166Alpha2": "CN",
+    "CodigoIso3166Alpha3": "CHN",
+    "CodigoIso3166Numeric": "156"
+  },
+  {
+    "Nome": "Ilha Christmas (Ilha do Natal)",
+    "NomeIngles": "Christmas Island",
+    "NomeFrances": "Christmas (l'Île)",
+    "CodigoIso3166Alpha2": "CX",
+    "CodigoIso3166Alpha3": "CXR",
+    "CodigoIso3166Numeric": "162"
+  },
+  {
+    "Nome": "Ilhas Cocos",
+    "NomeIngles": "Cocos (Keeling) Islands (the)",
+    "NomeFrances": "Cocos (les Îles)/ Keeling (les Îles)",
+    "CodigoIso3166Alpha2": "CC",
+    "CodigoIso3166Alpha3": "CCK",
+    "CodigoIso3166Numeric": "166"
+  },
+  {
+    "Nome": "Colômbia",
+    "NomeIngles": "Colombia",
+    "NomeFrances": "Colombie (la)",
+    "CodigoIso3166Alpha2": "CO",
+    "CodigoIso3166Alpha3": "COL",
+    "CodigoIso3166Numeric": "170"
+  },
+  {
+    "Nome": "Comores",
+    "NomeIngles": "Comoros (the)",
+    "NomeFrances": "Comores (les)",
+    "CodigoIso3166Alpha2": "KM",
+    "CodigoIso3166Alpha3": "COM",
+    "CodigoIso3166Numeric": "174"
+  },
+  {
+    "Nome": "República do Congo (Congo Brazzaville)",
+    "NomeIngles": "Congo (the Democratic Republic of the)",
+    "NomeFrances": "Congo (la République démocratique du)",
+    "CodigoIso3166Alpha2": "CD",
+    "CodigoIso3166Alpha3": "COD",
+    "CodigoIso3166Numeric": "180"
+  },
+  {
+    "Nome": "República Democrática do Congo (Congo)",
+    "NomeIngles": "Congo (the)",
+    "NomeFrances": "Congo (le)",
+    "CodigoIso3166Alpha2": "CG",
+    "CodigoIso3166Alpha3": "COG",
+    "CodigoIso3166Numeric": "178"
+  },
+  {
+    "Nome": "Ilhas Cook",
+    "NomeIngles": "Cook Islands (the)",
+    "NomeFrances": "Cook (les Îles)",
+    "CodigoIso3166Alpha2": "CK",
+    "CodigoIso3166Alpha3": "COK",
+    "CodigoIso3166Numeric": "184"
+  },
+  {
+    "Nome": "Costa Rica",
+    "NomeIngles": "Costa Rica",
+    "NomeFrances": "Costa Rica (le)",
+    "CodigoIso3166Alpha2": "CR",
+    "CodigoIso3166Alpha3": "CRI",
+    "CodigoIso3166Numeric": "188"
+  },
+  {
+    "Nome": "Costa do Marfim",
+    "NomeIngles": "Côte d'Ivoire",
+    "NomeFrances": "Côte d'Ivoire (la)",
+    "CodigoIso3166Alpha2": "CI",
+    "CodigoIso3166Alpha3": "CIV",
+    "CodigoIso3166Numeric": "384"
+  },
+  {
+    "Nome": "Croácia",
+    "NomeIngles": "Croatia",
+    "NomeFrances": "Croatie (la)",
+    "CodigoIso3166Alpha2": "HR",
+    "CodigoIso3166Alpha3": "HRV",
+    "CodigoIso3166Numeric": "191"
+  },
+  {
+    "Nome": "Cuba",
+    "NomeIngles": "Cuba",
+    "NomeFrances": "Cuba",
+    "CodigoIso3166Alpha2": "CU",
+    "CodigoIso3166Alpha3": "CUB",
+    "CodigoIso3166Numeric": "192"
+  },
+  {
+    "Nome": "Curaçao",
+    "NomeIngles": "Curaçao",
+    "NomeFrances": "Curaçao",
+    "CodigoIso3166Alpha2": "CW",
+    "CodigoIso3166Alpha3": "CUW",
+    "CodigoIso3166Numeric": "531"
+  },
+  {
+    "Nome": "Chipre",
+    "NomeIngles": "Cyprus",
+    "NomeFrances": "Chypre",
+    "CodigoIso3166Alpha2": "CY",
+    "CodigoIso3166Alpha3": "CYP",
+    "CodigoIso3166Numeric": "196"
+  },
+  {
+    "Nome": "República Tcheca (República Tchéquia)",
+    "NomeIngles": "Czechia",
+    "NomeFrances": "Tchéquie (la)",
+    "CodigoIso3166Alpha2": "CZ",
+    "CodigoIso3166Alpha3": "CZE",
+    "CodigoIso3166Numeric": "203"
+  },
+  {
+    "Nome": "Dinamarca",
+    "NomeIngles": "Denmark",
+    "NomeFrances": "Danemark (le)",
+    "CodigoIso3166Alpha2": "DK",
+    "CodigoIso3166Alpha3": "DNK",
+    "CodigoIso3166Numeric": "208"
+  },
+  {
+    "Nome": "Djibuti",
+    "NomeIngles": "Djibouti",
+    "NomeFrances": "Djibouti",
+    "CodigoIso3166Alpha2": "DJ",
+    "CodigoIso3166Alpha3": "DJI",
+    "CodigoIso3166Numeric": "262"
+  },
+  {
+    "Nome": "Dominica",
+    "NomeIngles": "Dominica",
+    "NomeFrances": "Dominique (la)",
+    "CodigoIso3166Alpha2": "DM",
+    "CodigoIso3166Alpha3": "DMA",
+    "CodigoIso3166Numeric": "212"
+  },
+  {
+    "Nome": "República Dominicana",
+    "NomeIngles": "Dominican Republic (the)",
+    "NomeFrances": "dominicaine (la République)",
+    "CodigoIso3166Alpha2": "DO",
+    "CodigoIso3166Alpha3": "DOM",
+    "CodigoIso3166Numeric": "214"
+  },
+  {
+    "Nome": "Equador",
+    "NomeIngles": "Ecuador",
+    "NomeFrances": "Équateur (l')",
+    "CodigoIso3166Alpha2": "EC",
+    "CodigoIso3166Alpha3": "ECU",
+    "CodigoIso3166Numeric": "218"
+  },
+  {
+    "Nome": "Egito",
+    "NomeIngles": "Egypt",
+    "NomeFrances": "Égypte (l')",
+    "CodigoIso3166Alpha2": "EG",
+    "CodigoIso3166Alpha3": "EGY",
+    "CodigoIso3166Numeric": "818"
+  },
+  {
+    "Nome": "El Salvador",
+    "NomeIngles": "El Salvador",
+    "NomeFrances": "El Salvador",
+    "CodigoIso3166Alpha2": "SV",
+    "CodigoIso3166Alpha3": "SLV",
+    "CodigoIso3166Numeric": "222"
+  },
+  {
+    "Nome": "Guiné Equatorial",
+    "NomeIngles": "Equatorial Guinea",
+    "NomeFrances": "Guinée équatoriale (la)",
+    "CodigoIso3166Alpha2": "GQ",
+    "CodigoIso3166Alpha3": "GNQ",
+    "CodigoIso3166Numeric": "226"
+  },
+  {
+    "Nome": "Eritreia",
+    "NomeIngles": "Eritrea",
+    "NomeFrances": "Érythrée (l')",
+    "CodigoIso3166Alpha2": "ER",
+    "CodigoIso3166Alpha3": "ERI",
+    "CodigoIso3166Numeric": "232"
+  },
+  {
+    "Nome": "Estônia",
+    "NomeIngles": "Estonia",
+    "NomeFrances": "Estonie (l')",
+    "CodigoIso3166Alpha2": "EE",
+    "CodigoIso3166Alpha3": "EST",
+    "CodigoIso3166Numeric": "233"
+  },
+  {
+    "Nome": "Essuatíni (Suazilândia)",
+    "NomeIngles": "Eswatini",
+    "NomeFrances": "Eswatini (l')",
+    "CodigoIso3166Alpha2": "SZ",
+    "CodigoIso3166Alpha3": "SWZ",
+    "CodigoIso3166Numeric": "748"
+  },
+  {
+    "Nome": "Etiópia",
+    "NomeIngles": "Ethiopia",
+    "NomeFrances": "Éthiopie (l')",
+    "CodigoIso3166Alpha2": "ET",
+    "CodigoIso3166Alpha3": "ETH",
+    "CodigoIso3166Numeric": "231"
+  },
+  {
+    "Nome": "Ilhas Malvinas",
+    "NomeIngles": "Falkland Islands (the) [Malvinas]",
+    "NomeFrances": "Falkland (les Îles)/Malouines (les Îles)",
+    "CodigoIso3166Alpha2": "FK",
+    "CodigoIso3166Alpha3": "FLK",
+    "CodigoIso3166Numeric": "238"
+  },
+  {
+    "Nome": "Ilhas Faroé (Ilhas Féroe)",
+    "NomeIngles": "Faroe Islands (the)",
+    "NomeFrances": "Féroé (les Îles)",
+    "CodigoIso3166Alpha2": "FO",
+    "CodigoIso3166Alpha3": "FRO",
+    "CodigoIso3166Numeric": "234"
+  },
+  {
+    "Nome": "Fiji",
+    "NomeIngles": "Fiji",
+    "NomeFrances": "Fidji (les)",
+    "CodigoIso3166Alpha2": "FJ",
+    "CodigoIso3166Alpha3": "FJI",
+    "CodigoIso3166Numeric": "242"
+  },
+  {
+    "Nome": "Finlândia",
+    "NomeIngles": "Finland",
+    "NomeFrances": "Finlande (la)",
+    "CodigoIso3166Alpha2": "FI",
+    "CodigoIso3166Alpha3": "FIN",
+    "CodigoIso3166Numeric": "246"
+  },
+  {
+    "Nome": "França",
+    "NomeIngles": "France",
+    "NomeFrances": "France (la)",
+    "CodigoIso3166Alpha2": "FR",
+    "CodigoIso3166Alpha3": "FRA",
+    "CodigoIso3166Numeric": "250"
+  },
+  {
+    "Nome": "Guiana Francesa",
+    "NomeIngles": "French Guiana",
+    "NomeFrances": "Guyane française (la )",
+    "CodigoIso3166Alpha2": "GF",
+    "CodigoIso3166Alpha3": "GUF",
+    "CodigoIso3166Numeric": "254"
+  },
+  {
+    "Nome": "Polinésia Francesa",
+    "NomeIngles": "French Polynesia",
+    "NomeFrances": "Polynésie française (la)",
+    "CodigoIso3166Alpha2": "PF",
+    "CodigoIso3166Alpha3": "PYF",
+    "CodigoIso3166Numeric": "258"
+  },
+  {
+    "Nome": "Terras Austrais e Antárticas Francesas (Ilhas Meridionais e Antártica Francesa)",
+    "NomeIngles": "French Southern Territories (the)",
+    "NomeFrances": "Terres australes françaises (les)",
+    "CodigoIso3166Alpha2": "TF",
+    "CodigoIso3166Alpha3": "ATF",
+    "CodigoIso3166Numeric": "260"
+  },
+  {
+    "Nome": "Gabão",
+    "NomeIngles": "Gabon",
+    "NomeFrances": "Gabon (le)",
+    "CodigoIso3166Alpha2": "GA",
+    "CodigoIso3166Alpha3": "GAB",
+    "CodigoIso3166Numeric": "266"
+  },
+  {
+    "Nome": "Gâmbia",
+    "NomeIngles": "Gambia (the)",
+    "NomeFrances": "Gambie (la)",
+    "CodigoIso3166Alpha2": "GM",
+    "CodigoIso3166Alpha3": "GMB",
+    "CodigoIso3166Numeric": "270"
+  },
+  {
+    "Nome": "Geórgia",
+    "NomeIngles": "Georgia",
+    "NomeFrances": "Géorgie (la)",
+    "CodigoIso3166Alpha2": "GE",
+    "CodigoIso3166Alpha3": "GEO",
+    "CodigoIso3166Numeric": "268"
+  },
+  {
+    "Nome": "Alemanha",
+    "NomeIngles": "Germany",
+    "NomeFrances": "Allemagne (l')",
+    "CodigoIso3166Alpha2": "DE",
+    "CodigoIso3166Alpha3": "DEU",
+    "CodigoIso3166Numeric": "276"
+  },
+  {
+    "Nome": "Gana",
+    "NomeIngles": "Ghana",
+    "NomeFrances": "Ghana (le)",
+    "CodigoIso3166Alpha2": "GH",
+    "CodigoIso3166Alpha3": "GHA",
+    "CodigoIso3166Numeric": "288"
+  },
+  {
+    "Nome": "Gibraltar",
+    "NomeIngles": "Gibraltar",
+    "NomeFrances": "Gibraltar",
+    "CodigoIso3166Alpha2": "GI",
+    "CodigoIso3166Alpha3": "GIB",
+    "CodigoIso3166Numeric": "292"
+  },
+  {
+    "Nome": "Grécia",
+    "NomeIngles": "Greece",
+    "NomeFrances": "Grèce (la)",
+    "CodigoIso3166Alpha2": "GR",
+    "CodigoIso3166Alpha3": "GRC",
+    "CodigoIso3166Numeric": "300"
+  },
+  {
+    "Nome": "Groenlândia",
+    "NomeIngles": "Greenland",
+    "NomeFrances": "Groenland (le)",
+    "CodigoIso3166Alpha2": "GL",
+    "CodigoIso3166Alpha3": "GRL",
+    "CodigoIso3166Numeric": "304"
+  },
+  {
+    "Nome": "Granada",
+    "NomeIngles": "Grenada",
+    "NomeFrances": "Grenade (la)",
+    "CodigoIso3166Alpha2": "GD",
+    "CodigoIso3166Alpha3": "GRD",
+    "CodigoIso3166Numeric": "308"
+  },
+  {
+    "Nome": "Guadalupe",
+    "NomeIngles": "Guadeloupe",
+    "NomeFrances": "Guadeloupe (la)",
+    "CodigoIso3166Alpha2": "GP",
+    "CodigoIso3166Alpha3": "GLP",
+    "CodigoIso3166Numeric": "312"
+  },
+  {
+    "Nome": "Guam",
+    "NomeIngles": "Guam",
+    "NomeFrances": "Guam",
+    "CodigoIso3166Alpha2": "GU",
+    "CodigoIso3166Alpha3": "GUM",
+    "CodigoIso3166Numeric": "316"
+  },
+  {
+    "Nome": "Guatemala",
+    "NomeIngles": "Guatemala",
+    "NomeFrances": "Guatemala (le)",
+    "CodigoIso3166Alpha2": "GT",
+    "CodigoIso3166Alpha3": "GTM",
+    "CodigoIso3166Numeric": "320"
+  },
+  {
+    "Nome": "Guernsey",
+    "NomeIngles": "Guernsey",
+    "NomeFrances": "Guernesey",
+    "CodigoIso3166Alpha2": "GG",
+    "CodigoIso3166Alpha3": "GGY",
+    "CodigoIso3166Numeric": "831"
+  },
+  {
+    "Nome": "Guiné",
+    "NomeIngles": "Guinea",
+    "NomeFrances": "Guinée (la)",
+    "CodigoIso3166Alpha2": "GN",
+    "CodigoIso3166Alpha3": "GIN",
+    "CodigoIso3166Numeric": "324"
+  },
+  {
+    "Nome": "Guiné-Bissau",
+    "NomeIngles": "Guinea-Bissau",
+    "NomeFrances": "Guinée-Bissau (la)",
+    "CodigoIso3166Alpha2": "GW",
+    "CodigoIso3166Alpha3": "GNB",
+    "CodigoIso3166Numeric": "624"
+  },
+  {
+    "Nome": "Guiana",
+    "NomeIngles": "Guyana",
+    "NomeFrances": "Guyana (le)",
+    "CodigoIso3166Alpha2": "GY",
+    "CodigoIso3166Alpha3": "GUY",
+    "CodigoIso3166Numeric": "328"
+  },
+  {
+    "Nome": "Haiti",
+    "NomeIngles": "Haiti",
+    "NomeFrances": "Haïti",
+    "CodigoIso3166Alpha2": "HT",
+    "CodigoIso3166Alpha3": "HTI",
+    "CodigoIso3166Numeric": "332"
+  },
+  {
+    "Nome": "Ilha Heard e Ilhas McDonald",
+    "NomeIngles": "Heard Island and McDonald Islands",
+    "NomeFrances": "Heard-et-Îles MacDonald (l'Île)",
+    "CodigoIso3166Alpha2": "HM",
+    "CodigoIso3166Alpha3": "HMD",
+    "CodigoIso3166Numeric": "334"
+  },
+  {
+    "Nome": "Vaticano",
+    "NomeIngles": "Holy See (the)",
+    "NomeFrances": "Saint-Siège (le)",
+    "CodigoIso3166Alpha2": "VA",
+    "CodigoIso3166Alpha3": "VAT",
+    "CodigoIso3166Numeric": "336"
+  },
+  {
+    "Nome": "Honduras",
+    "NomeIngles": "Honduras",
+    "NomeFrances": "Honduras (le)",
+    "CodigoIso3166Alpha2": "HN",
+    "CodigoIso3166Alpha3": "HND",
+    "CodigoIso3166Numeric": "340"
+  },
+  {
+    "Nome": "Hong Kong",
+    "NomeIngles": "Hong Kong",
+    "NomeFrances": "Hong Kong",
+    "CodigoIso3166Alpha2": "HK",
+    "CodigoIso3166Alpha3": "HKG",
+    "CodigoIso3166Numeric": "344"
+  },
+  {
+    "Nome": "Hungria",
+    "NomeIngles": "Hungary",
+    "NomeFrances": "Hongrie (la)",
+    "CodigoIso3166Alpha2": "HU",
+    "CodigoIso3166Alpha3": "HUN",
+    "CodigoIso3166Numeric": "348"
+  },
+  {
+    "Nome": "Islândia",
+    "NomeIngles": "Iceland",
+    "NomeFrances": "Islande (l')",
+    "CodigoIso3166Alpha2": "IS",
+    "CodigoIso3166Alpha3": "ISL",
+    "CodigoIso3166Numeric": "352"
+  },
+  {
+    "Nome": "Índia",
+    "NomeIngles": "India",
+    "NomeFrances": "Inde (l')",
+    "CodigoIso3166Alpha2": "IN",
+    "CodigoIso3166Alpha3": "IND",
+    "CodigoIso3166Numeric": "356"
+  },
+  {
+    "Nome": "Indonésia",
+    "NomeIngles": "Indonesia",
+    "NomeFrances": "Indonésie (l')",
+    "CodigoIso3166Alpha2": "ID",
+    "CodigoIso3166Alpha3": "IDN",
+    "CodigoIso3166Numeric": "360"
+  },
+  {
+    "Nome": "Irã",
+    "NomeIngles": "Iran (Islamic Republic of)",
+    "NomeFrances": "Iran (République Islamique d')",
+    "CodigoIso3166Alpha2": "IR",
+    "CodigoIso3166Alpha3": "IRN",
+    "CodigoIso3166Numeric": "364"
+  },
+  {
+    "Nome": "Iraque",
+    "NomeIngles": "Iraq",
+    "NomeFrances": "Iraq (l')",
+    "CodigoIso3166Alpha2": "IQ",
+    "CodigoIso3166Alpha3": "IRQ",
+    "CodigoIso3166Numeric": "368"
+  },
+  {
+    "Nome": "Irlanda",
+    "NomeIngles": "Ireland",
+    "NomeFrances": "Irlande (l')",
+    "CodigoIso3166Alpha2": "IE",
+    "CodigoIso3166Alpha3": "IRL",
+    "CodigoIso3166Numeric": "372"
+  },
+  {
+    "Nome": "Ilha de Man",
+    "NomeIngles": "Isle of Man",
+    "NomeFrances": "Île de Man",
+    "CodigoIso3166Alpha2": "IM",
+    "CodigoIso3166Alpha3": "IMN",
+    "CodigoIso3166Numeric": "833"
+  },
+  {
+    "Nome": "Israel",
+    "NomeIngles": "Israel",
+    "NomeFrances": "Israël",
+    "CodigoIso3166Alpha2": "IL",
+    "CodigoIso3166Alpha3": "ISR",
+    "CodigoIso3166Numeric": "376"
+  },
+  {
+    "Nome": "Itália",
+    "NomeIngles": "Italy",
+    "NomeFrances": "Italie (l')",
+    "CodigoIso3166Alpha2": "IT",
+    "CodigoIso3166Alpha3": "ITA",
+    "CodigoIso3166Numeric": "380"
+  },
+  {
+    "Nome": "Jamaica",
+    "NomeIngles": "Jamaica",
+    "NomeFrances": "Jamaïque (la)",
+    "CodigoIso3166Alpha2": "JM",
+    "CodigoIso3166Alpha3": "JAM",
+    "CodigoIso3166Numeric": "388"
+  },
+  {
+    "Nome": "Japão",
+    "NomeIngles": "Japan",
+    "NomeFrances": "Japon (le)",
+    "CodigoIso3166Alpha2": "JP",
+    "CodigoIso3166Alpha3": "JPN",
+    "CodigoIso3166Numeric": "392"
+  },
+  {
+    "Nome": "Jersey",
+    "NomeIngles": "Jersey",
+    "NomeFrances": "Jersey",
+    "CodigoIso3166Alpha2": "JE",
+    "CodigoIso3166Alpha3": "JEY",
+    "CodigoIso3166Numeric": "832"
+  },
+  {
+    "Nome": "Jordânia",
+    "NomeIngles": "Jordan",
+    "NomeFrances": "Jordanie (la)",
+    "CodigoIso3166Alpha2": "JO",
+    "CodigoIso3166Alpha3": "JOR",
+    "CodigoIso3166Numeric": "400"
+  },
+  {
+    "Nome": "Cazaquistão",
+    "NomeIngles": "Kazakhstan",
+    "NomeFrances": "Kazakhstan (le)",
+    "CodigoIso3166Alpha2": "KZ",
+    "CodigoIso3166Alpha3": "KAZ",
+    "CodigoIso3166Numeric": "398"
+  },
+  {
+    "Nome": "Quênia",
+    "NomeIngles": "Kenya",
+    "NomeFrances": "Kenya (le)",
+    "CodigoIso3166Alpha2": "KE",
+    "CodigoIso3166Alpha3": "KEN",
+    "CodigoIso3166Numeric": "404"
+  },
+  {
+    "Nome": "Quiribati",
+    "NomeIngles": "Kiribati",
+    "NomeFrances": "Kiribati",
+    "CodigoIso3166Alpha2": "KI",
+    "CodigoIso3166Alpha3": "KIR",
+    "CodigoIso3166Numeric": "296"
+  },
+  {
+    "Nome": "Coreia do Norte",
+    "NomeIngles": "Korea (the Democratic People's Republic of)",
+    "NomeFrances": "Corée (la République populaire démocratique de)",
+    "CodigoIso3166Alpha2": "KP",
+    "CodigoIso3166Alpha3": "PRK",
+    "CodigoIso3166Numeric": "408"
+  },
+  {
+    "Nome": "Coreia do Sul",
+    "NomeIngles": "Korea (the Republic of)",
+    "NomeFrances": "Corée (la République de)",
+    "CodigoIso3166Alpha2": "KR",
+    "CodigoIso3166Alpha3": "KOR",
+    "CodigoIso3166Numeric": "410"
+  },
+  {
+    "Nome": "Kuwait (Kuweit)",
+    "NomeIngles": "Kuwait",
+    "NomeFrances": "Koweït (le)",
+    "CodigoIso3166Alpha2": "KW",
+    "CodigoIso3166Alpha3": "KWT",
+    "CodigoIso3166Numeric": "414"
+  },
+  {
+    "Nome": "Quirguistão",
+    "NomeIngles": "Kyrgyzstan",
+    "NomeFrances": "Kirghizistan (le)",
+    "CodigoIso3166Alpha2": "KG",
+    "CodigoIso3166Alpha3": "KGZ",
+    "CodigoIso3166Numeric": "417"
+  },
+  {
+    "Nome": "Laos",
+    "NomeIngles": "Lao People's Democratic Republic (the)",
+    "NomeFrances": "Lao (la République démocratique populaire)",
+    "CodigoIso3166Alpha2": "LA",
+    "CodigoIso3166Alpha3": "LAO",
+    "CodigoIso3166Numeric": "418"
+  },
+  {
+    "Nome": "Letônia",
+    "NomeIngles": "Latvia",
+    "NomeFrances": "Lettonie (la)",
+    "CodigoIso3166Alpha2": "LV",
+    "CodigoIso3166Alpha3": "LVA",
+    "CodigoIso3166Numeric": "428"
+  },
+  {
+    "Nome": "Líbano",
+    "NomeIngles": "Lebanon",
+    "NomeFrances": "Liban (le)",
+    "CodigoIso3166Alpha2": "LB",
+    "CodigoIso3166Alpha3": "LBN",
+    "CodigoIso3166Numeric": "422"
+  },
+  {
+    "Nome": "Lesoto",
+    "NomeIngles": "Lesotho",
+    "NomeFrances": "Lesotho (le)",
+    "CodigoIso3166Alpha2": "LS",
+    "CodigoIso3166Alpha3": "LSO",
+    "CodigoIso3166Numeric": "426"
+  },
+  {
+    "Nome": "Libéria",
+    "NomeIngles": "Liberia",
+    "NomeFrances": "Libéria (le)",
+    "CodigoIso3166Alpha2": "LR",
+    "CodigoIso3166Alpha3": "LBR",
+    "CodigoIso3166Numeric": "430"
+  },
+  {
+    "Nome": "Líbia",
+    "NomeIngles": "Libya",
+    "NomeFrances": "Libye (la)",
+    "CodigoIso3166Alpha2": "LY",
+    "CodigoIso3166Alpha3": "LBY",
+    "CodigoIso3166Numeric": "434"
+  },
+  {
+    "Nome": "Liechtenstein",
+    "NomeIngles": "Liechtenstein",
+    "NomeFrances": "Liechtenstein (le)",
+    "CodigoIso3166Alpha2": "LI",
+    "CodigoIso3166Alpha3": "LIE",
+    "CodigoIso3166Numeric": "438"
+  },
+  {
+    "Nome": "Lituânia",
+    "NomeIngles": "Lithuania",
+    "NomeFrances": "Lituanie (la)",
+    "CodigoIso3166Alpha2": "LT",
+    "CodigoIso3166Alpha3": "LTU",
+    "CodigoIso3166Numeric": "440"
+  },
+  {
+    "Nome": "Luxemburgo",
+    "NomeIngles": "Luxembourg",
+    "NomeFrances": "Luxembourg (le)",
+    "CodigoIso3166Alpha2": "LU",
+    "CodigoIso3166Alpha3": "LUX",
+    "CodigoIso3166Numeric": "442"
+  },
+  {
+    "Nome": "Macau",
+    "NomeIngles": "Macao",
+    "NomeFrances": "Macao",
+    "CodigoIso3166Alpha2": "MO",
+    "CodigoIso3166Alpha3": "MAC",
+    "CodigoIso3166Numeric": "446"
+  },
+  {
+    "Nome": "Madagascar",
+    "NomeIngles": "Madagascar",
+    "NomeFrances": "Madagascar",
+    "CodigoIso3166Alpha2": "MG",
+    "CodigoIso3166Alpha3": "MDG",
+    "CodigoIso3166Numeric": "450"
+  },
+  {
+    "Nome": "Malauí",
+    "NomeIngles": "Malawi",
+    "NomeFrances": "Malawi (le)",
+    "CodigoIso3166Alpha2": "MW",
+    "CodigoIso3166Alpha3": "MWI",
+    "CodigoIso3166Numeric": "454"
+  },
+  {
+    "Nome": "Malásia",
+    "NomeIngles": "Malaysia",
+    "NomeFrances": "Malaisie (la)",
+    "CodigoIso3166Alpha2": "MY",
+    "CodigoIso3166Alpha3": "MYS",
+    "CodigoIso3166Numeric": "458"
+  },
+  {
+    "Nome": "Maldivas",
+    "NomeIngles": "Maldives",
+    "NomeFrances": "Maldives (les)",
+    "CodigoIso3166Alpha2": "MV",
+    "CodigoIso3166Alpha3": "MDV",
+    "CodigoIso3166Numeric": "462"
+  },
+  {
+    "Nome": "Mali",
+    "NomeIngles": "Mali",
+    "NomeFrances": "Mali (le)",
+    "CodigoIso3166Alpha2": "ML",
+    "CodigoIso3166Alpha3": "MLI",
+    "CodigoIso3166Numeric": "466"
+  },
+  {
+    "Nome": "Malta",
+    "NomeIngles": "Malta",
+    "NomeFrances": "Malte",
+    "CodigoIso3166Alpha2": "MT",
+    "CodigoIso3166Alpha3": "MLT",
+    "CodigoIso3166Numeric": "470"
+  },
+  {
+    "Nome": "Ilhas Marshall",
+    "NomeIngles": "Marshall Islands (the)",
+    "NomeFrances": "Marshall (les Îles)",
+    "CodigoIso3166Alpha2": "MH",
+    "CodigoIso3166Alpha3": "MHL",
+    "CodigoIso3166Numeric": "584"
+  },
+  {
+    "Nome": "Martinica",
+    "NomeIngles": "Martinique",
+    "NomeFrances": "Martinique (la)",
+    "CodigoIso3166Alpha2": "MQ",
+    "CodigoIso3166Alpha3": "MTQ",
+    "CodigoIso3166Numeric": "474"
+  },
+  {
+    "Nome": "Mauritânia",
+    "NomeIngles": "Mauritania",
+    "NomeFrances": "Mauritanie (la)",
+    "CodigoIso3166Alpha2": "MR",
+    "CodigoIso3166Alpha3": "MRT",
+    "CodigoIso3166Numeric": "478"
+  },
+  {
+    "Nome": "Ilhas Maurício",
+    "NomeIngles": "Mauritius",
+    "NomeFrances": "Maurice",
+    "CodigoIso3166Alpha2": "MU",
+    "CodigoIso3166Alpha3": "MUS",
+    "CodigoIso3166Numeric": "480"
+  },
+  {
+    "Nome": "Mayotte",
+    "NomeIngles": "Mayotte",
+    "NomeFrances": "Mayotte",
+    "CodigoIso3166Alpha2": "YT",
+    "CodigoIso3166Alpha3": "MYT",
+    "CodigoIso3166Numeric": "175"
+  },
+  {
+    "Nome": "México",
+    "NomeIngles": "Mexico",
+    "NomeFrances": "Mexique (le)",
+    "CodigoIso3166Alpha2": "MX",
+    "CodigoIso3166Alpha3": "MEX",
+    "CodigoIso3166Numeric": "484"
+  },
+  {
+    "Nome": "Estados Federados da Micronésia",
+    "NomeIngles": "Micronesia (Federated States of)",
+    "NomeFrances": "Micronésie (États fédérés de)",
+    "CodigoIso3166Alpha2": "FM",
+    "CodigoIso3166Alpha3": "FSM",
+    "CodigoIso3166Numeric": "583"
+  },
+  {
+    "Nome": "Moldávia",
+    "NomeIngles": "Moldova (the Republic of)",
+    "NomeFrances": "Moldova (la République de)",
+    "CodigoIso3166Alpha2": "MD",
+    "CodigoIso3166Alpha3": "MDA",
+    "CodigoIso3166Numeric": "498"
+  },
+  {
+    "Nome": "Mônaco",
+    "NomeIngles": "Monaco",
+    "NomeFrances": "Monaco",
+    "CodigoIso3166Alpha2": "MC",
+    "CodigoIso3166Alpha3": "MCO",
+    "CodigoIso3166Numeric": "492"
+  },
+  {
+    "Nome": "Mongólia",
+    "NomeIngles": "Mongolia",
+    "NomeFrances": "Mongolie (la)",
+    "CodigoIso3166Alpha2": "MN",
+    "CodigoIso3166Alpha3": "MNG",
+    "CodigoIso3166Numeric": "496"
+  },
+  {
+    "Nome": "Montenegro",
+    "NomeIngles": "Montenegro",
+    "NomeFrances": "Monténégro (le)",
+    "CodigoIso3166Alpha2": "ME",
+    "CodigoIso3166Alpha3": "MNE",
+    "CodigoIso3166Numeric": "499"
+  },
+  {
+    "Nome": "Monserrate",
+    "NomeIngles": "Montserrat",
+    "NomeFrances": "Montserrat",
+    "CodigoIso3166Alpha2": "MS",
+    "CodigoIso3166Alpha3": "MSR",
+    "CodigoIso3166Numeric": "500"
+  },
+  {
+    "Nome": "Marrocos",
+    "NomeIngles": "Morocco",
+    "NomeFrances": "Maroc (le)",
+    "CodigoIso3166Alpha2": "MA",
+    "CodigoIso3166Alpha3": "MAR",
+    "CodigoIso3166Numeric": "504"
+  },
+  {
+    "Nome": "Moçambique",
+    "NomeIngles": "Mozambique",
+    "NomeFrances": "Mozambique (le)",
+    "CodigoIso3166Alpha2": "MZ",
+    "CodigoIso3166Alpha3": "MOZ",
+    "CodigoIso3166Numeric": "508"
+  },
+  {
+    "Nome": "Mianmar",
+    "NomeIngles": "Myanmar",
+    "NomeFrances": "Myanmar (le)",
+    "CodigoIso3166Alpha2": "MM",
+    "CodigoIso3166Alpha3": "MMR",
+    "CodigoIso3166Numeric": "104"
+  },
+  {
+    "Nome": "Namíbia",
+    "NomeIngles": "Namibia",
+    "NomeFrances": "Namibie (la)",
+    "CodigoIso3166Alpha2": "NA",
+    "CodigoIso3166Alpha3": "NAM",
+    "CodigoIso3166Numeric": "516"
+  },
+  {
+    "Nome": "Nauru",
+    "NomeIngles": "Nauru",
+    "NomeFrances": "Nauru",
+    "CodigoIso3166Alpha2": "NR",
+    "CodigoIso3166Alpha3": "NRU",
+    "CodigoIso3166Numeric": "520"
+  },
+  {
+    "Nome": "Nepal",
+    "NomeIngles": "Nepal",
+    "NomeFrances": "Népal (le)",
+    "CodigoIso3166Alpha2": "NP",
+    "CodigoIso3166Alpha3": "NPL",
+    "CodigoIso3166Numeric": "524"
+  },
+  {
+    "Nome": "Países Baixos (Holanda)",
+    "NomeIngles": "Netherlands (Kingdom of the)",
+    "NomeFrances": "Pays-Bas (Royaume des)",
+    "CodigoIso3166Alpha2": "NL",
+    "CodigoIso3166Alpha3": "NLD",
+    "CodigoIso3166Numeric": "528"
+  },
+  {
+    "Nome": "Nova Caledônia",
+    "NomeIngles": "New Caledonia",
+    "NomeFrances": "Nouvelle-Calédonie (la)",
+    "CodigoIso3166Alpha2": "NC",
+    "CodigoIso3166Alpha3": "NCL",
+    "CodigoIso3166Numeric": "540"
+  },
+  {
+    "Nome": "Nova Zelândia",
+    "NomeIngles": "New Zealand",
+    "NomeFrances": "Nouvelle-Zélande (la)",
+    "CodigoIso3166Alpha2": "NZ",
+    "CodigoIso3166Alpha3": "NZL",
+    "CodigoIso3166Numeric": "554"
+  },
+  {
+    "Nome": "Nicarágua",
+    "NomeIngles": "Nicaragua",
+    "NomeFrances": "Nicaragua (le)",
+    "CodigoIso3166Alpha2": "NI",
+    "CodigoIso3166Alpha3": "NIC",
+    "CodigoIso3166Numeric": "558"
+  },
+  {
+    "Nome": "Níger",
+    "NomeIngles": "Niger (the)",
+    "NomeFrances": "Niger (le)",
+    "CodigoIso3166Alpha2": "NE",
+    "CodigoIso3166Alpha3": "NER",
+    "CodigoIso3166Numeric": "562"
+  },
+  {
+    "Nome": "Nigéria",
+    "NomeIngles": "Nigeria",
+    "NomeFrances": "Nigéria (le)",
+    "CodigoIso3166Alpha2": "NG",
+    "CodigoIso3166Alpha3": "NGA",
+    "CodigoIso3166Numeric": "566"
+  },
+  {
+    "Nome": "Niue",
+    "NomeIngles": "Niue",
+    "NomeFrances": "Niue",
+    "CodigoIso3166Alpha2": "NU",
+    "CodigoIso3166Alpha3": "NIU",
+    "CodigoIso3166Numeric": "570"
+  },
+  {
+    "Nome": "Ilha Norfolk",
+    "NomeIngles": "Norfolk Island",
+    "NomeFrances": "Norfolk (l'Île)",
+    "CodigoIso3166Alpha2": "NF",
+    "CodigoIso3166Alpha3": "NFK",
+    "CodigoIso3166Numeric": "574"
+  },
+  {
+    "Nome": "Macedônia do Norte",
+    "NomeIngles": "North Macedonia",
+    "NomeFrances": "Macédoine du Nord (la)",
+    "CodigoIso3166Alpha2": "MK",
+    "CodigoIso3166Alpha3": "MKD",
+    "CodigoIso3166Numeric": "807"
+  },
+  {
+    "Nome": "Ilhas Marianas do Norte (Marianas Setentrionais)",
+    "NomeIngles": "Northern Mariana Islands (the)",
+    "NomeFrances": "Mariannes du Nord (les Îles)",
+    "CodigoIso3166Alpha2": "MP",
+    "CodigoIso3166Alpha3": "MNP",
+    "CodigoIso3166Numeric": "580"
+  },
+  {
+    "Nome": "Noruega",
+    "NomeIngles": "Norway",
+    "NomeFrances": "Norvège (la)",
+    "CodigoIso3166Alpha2": "NO",
+    "CodigoIso3166Alpha3": "NOR",
+    "CodigoIso3166Numeric": "578"
+  },
+  {
+    "Nome": "Omã",
+    "NomeIngles": "Oman",
+    "NomeFrances": "Oman",
+    "CodigoIso3166Alpha2": "OM",
+    "CodigoIso3166Alpha3": "OMN",
+    "CodigoIso3166Numeric": "512"
+  },
+  {
+    "Nome": "Paquistão",
+    "NomeIngles": "Pakistan",
+    "NomeFrances": "Pakistan (le)",
+    "CodigoIso3166Alpha2": "PK",
+    "CodigoIso3166Alpha3": "PAK",
+    "CodigoIso3166Numeric": "586"
+  },
+  {
+    "Nome": "Palau",
+    "NomeIngles": "Palau",
+    "NomeFrances": "Palaos (les)",
+    "CodigoIso3166Alpha2": "PW",
+    "CodigoIso3166Alpha3": "PLW",
+    "CodigoIso3166Numeric": "585"
+  },
+  {
+    "Nome": "Palestina (Estado da Palestina)",
+    "NomeIngles": "Palestine, State of",
+    "NomeFrances": "Palestine, État de",
+    "CodigoIso3166Alpha2": "PS",
+    "CodigoIso3166Alpha3": "PSE",
+    "CodigoIso3166Numeric": "275"
+  },
+  {
+    "Nome": "Panamá",
+    "NomeIngles": "Panama",
+    "NomeFrances": "Panama (le)",
+    "CodigoIso3166Alpha2": "PA",
+    "CodigoIso3166Alpha3": "PAN",
+    "CodigoIso3166Numeric": "591"
+  },
+  {
+    "Nome": "Papua Nova Guiné",
+    "NomeIngles": "Papua New Guinea",
+    "NomeFrances": "Papouasie-Nouvelle-Guinée (la)",
+    "CodigoIso3166Alpha2": "PG",
+    "CodigoIso3166Alpha3": "PNG",
+    "CodigoIso3166Numeric": "598"
+  },
+  {
+    "Nome": "Paraguai",
+    "NomeIngles": "Paraguay",
+    "NomeFrances": "Paraguay (le)",
+    "CodigoIso3166Alpha2": "PY",
+    "CodigoIso3166Alpha3": "PRY",
+    "CodigoIso3166Numeric": "600"
+  },
+  {
+    "Nome": "Peru",
+    "NomeIngles": "Peru",
+    "NomeFrances": "Pérou (le)",
+    "CodigoIso3166Alpha2": "PE",
+    "CodigoIso3166Alpha3": "PER",
+    "CodigoIso3166Numeric": "604"
+  },
+  {
+    "Nome": "Filipinas",
+    "NomeIngles": "Philippines (the)",
+    "NomeFrances": "Philippines (les)",
+    "CodigoIso3166Alpha2": "PH",
+    "CodigoIso3166Alpha3": "PHL",
+    "CodigoIso3166Numeric": "608"
+  },
+  {
+    "Nome": "Ilhas Picárnia",
+    "NomeIngles": "Pitcairn",
+    "NomeFrances": "Pitcairn",
+    "CodigoIso3166Alpha2": "PN",
+    "CodigoIso3166Alpha3": "PCN",
+    "CodigoIso3166Numeric": "612"
+  },
+  {
+    "Nome": "Polônia",
+    "NomeIngles": "Poland",
+    "NomeFrances": "Pologne (la)",
+    "CodigoIso3166Alpha2": "PL",
+    "CodigoIso3166Alpha3": "POL",
+    "CodigoIso3166Numeric": "616"
+  },
+  {
+    "Nome": "Portugal",
+    "NomeIngles": "Portugal",
+    "NomeFrances": "Portugal (le)",
+    "CodigoIso3166Alpha2": "PT",
+    "CodigoIso3166Alpha3": "PRT",
+    "CodigoIso3166Numeric": "620"
+  },
+  {
+    "Nome": "Porto Rico",
+    "NomeIngles": "Puerto Rico",
+    "NomeFrances": "Porto Rico",
+    "CodigoIso3166Alpha2": "PR",
+    "CodigoIso3166Alpha3": "PRI",
+    "CodigoIso3166Numeric": "630"
+  },
+  {
+    "Nome": "Catar",
+    "NomeIngles": "Qatar",
+    "NomeFrances": "Qatar (le)",
+    "CodigoIso3166Alpha2": "QA",
+    "CodigoIso3166Alpha3": "QAT",
+    "CodigoIso3166Numeric": "634"
+  },
+  {
+    "Nome": "Ilha da Reunião",
+    "NomeIngles": "Réunion",
+    "NomeFrances": "Réunion (La)",
+    "CodigoIso3166Alpha2": "RE",
+    "CodigoIso3166Alpha3": "REU",
+    "CodigoIso3166Numeric": "638"
+  },
+  {
+    "Nome": "Romênia",
+    "NomeIngles": "Romania",
+    "NomeFrances": "Roumanie (la)",
+    "CodigoIso3166Alpha2": "RO",
+    "CodigoIso3166Alpha3": "ROU",
+    "CodigoIso3166Numeric": "642"
+  },
+  {
+    "Nome": "Rússia (Federação Russa)",
+    "NomeIngles": "Russian Federation (the)",
+    "NomeFrances": "Russie (la Fédération de)",
+    "CodigoIso3166Alpha2": "RU",
+    "CodigoIso3166Alpha3": "RUS",
+    "CodigoIso3166Numeric": "643"
+  },
+  {
+    "Nome": "Ruanda",
+    "NomeIngles": "Rwanda",
+    "NomeFrances": "Rwanda (le)",
+    "CodigoIso3166Alpha2": "RW",
+    "CodigoIso3166Alpha3": "RWA",
+    "CodigoIso3166Numeric": "646"
+  },
+  {
+    "Nome": "São Bartolomeu",
+    "NomeIngles": "Saint Barthélemy",
+    "NomeFrances": "Saint-Barthélemy",
+    "CodigoIso3166Alpha2": "BL",
+    "CodigoIso3166Alpha3": "BLM",
+    "CodigoIso3166Numeric": "652"
+  },
+  {
+    "Nome": "Santa Helena, Ascensão e Tristão da Cunha",
+    "NomeIngles": "Saint Helena, Ascension and Tristan da Cunha",
+    "NomeFrances": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "CodigoIso3166Alpha2": "SH",
+    "CodigoIso3166Alpha3": "SHN",
+    "CodigoIso3166Numeric": "654"
+  },
+  {
+    "Nome": "São Cristóvão e Neves",
+    "NomeIngles": "Saint Kitts and Nevis",
+    "NomeFrances": "Saint-Kitts-et-Nevis",
+    "CodigoIso3166Alpha2": "KN",
+    "CodigoIso3166Alpha3": "KNA",
+    "CodigoIso3166Numeric": "659"
+  },
+  {
+    "Nome": "Santa Lúcia",
+    "NomeIngles": "Saint Lucia",
+    "NomeFrances": "Sainte-Lucie",
+    "CodigoIso3166Alpha2": "LC",
+    "CodigoIso3166Alpha3": "LCA",
+    "CodigoIso3166Numeric": "662"
+  },
+  {
+    "Nome": "São Martinho - Parte da França",
+    "NomeIngles": "Saint Martin (French part)",
+    "NomeFrances": "Saint-Martin (partie française)",
+    "CodigoIso3166Alpha2": "MF",
+    "CodigoIso3166Alpha3": "MAF",
+    "CodigoIso3166Numeric": "663"
+  },
+  {
+    "Nome": "São Pedro e Miquelão",
+    "NomeIngles": "Saint Pierre and Miquelon",
+    "NomeFrances": "Saint-Pierre-et-Miquelon",
+    "CodigoIso3166Alpha2": "PM",
+    "CodigoIso3166Alpha3": "SPM",
+    "CodigoIso3166Numeric": "666"
+  },
+  {
+    "Nome": "São Vicente e Granadinas",
+    "NomeIngles": "Saint Vincent and the Grenadines",
+    "NomeFrances": "Saint-Vincent-et-les Grenadines",
+    "CodigoIso3166Alpha2": "VC",
+    "CodigoIso3166Alpha3": "VCT",
+    "CodigoIso3166Numeric": "670"
+  },
+  {
+    "Nome": "Samoa",
+    "NomeIngles": "Samoa",
+    "NomeFrances": "Samoa (le)",
+    "CodigoIso3166Alpha2": "WS",
+    "CodigoIso3166Alpha3": "WSM",
+    "CodigoIso3166Numeric": "882"
+  },
+  {
+    "Nome": "San Marino",
+    "NomeIngles": "San Marino",
+    "NomeFrances": "Saint-Marin",
+    "CodigoIso3166Alpha2": "SM",
+    "CodigoIso3166Alpha3": "SMR",
+    "CodigoIso3166Numeric": "674"
+  },
+  {
+    "Nome": "São Tomé e Príncipe",
+    "NomeIngles": "Sao Tome and Principe",
+    "NomeFrances": "Sao Tomé-et-Principe",
+    "CodigoIso3166Alpha2": "ST",
+    "CodigoIso3166Alpha3": "STP",
+    "CodigoIso3166Numeric": "678"
+  },
+  {
+    "Nome": "Arábia Saudita",
+    "NomeIngles": "Saudi Arabia",
+    "NomeFrances": "Arabie saoudite (l')",
+    "CodigoIso3166Alpha2": "SA",
+    "CodigoIso3166Alpha3": "SAU",
+    "CodigoIso3166Numeric": "682"
+  },
+  {
+    "Nome": "Senegal",
+    "NomeIngles": "Senegal",
+    "NomeFrances": "Sénégal (le)",
+    "CodigoIso3166Alpha2": "SN",
+    "CodigoIso3166Alpha3": "SEN",
+    "CodigoIso3166Numeric": "686"
+  },
+  {
+    "Nome": "Sérvia",
+    "NomeIngles": "Serbia",
+    "NomeFrances": "Serbie (la)",
+    "CodigoIso3166Alpha2": "RS",
+    "CodigoIso3166Alpha3": "SRB",
+    "CodigoIso3166Numeric": "688"
+  },
+  {
+    "Nome": "Seicheles",
+    "NomeIngles": "Seychelles",
+    "NomeFrances": "Seychelles (les)",
+    "CodigoIso3166Alpha2": "SC",
+    "CodigoIso3166Alpha3": "SYC",
+    "CodigoIso3166Numeric": "690"
+  },
+  {
+    "Nome": "Serra Leoa",
+    "NomeIngles": "Sierra Leone",
+    "NomeFrances": "Sierra Leone (la)",
+    "CodigoIso3166Alpha2": "SL",
+    "CodigoIso3166Alpha3": "SLE",
+    "CodigoIso3166Numeric": "694"
+  },
+  {
+    "Nome": "Singapura (Cingapura)",
+    "NomeIngles": "Singapore",
+    "NomeFrances": "Singapour",
+    "CodigoIso3166Alpha2": "SG",
+    "CodigoIso3166Alpha3": "SGP",
+    "CodigoIso3166Numeric": "702"
+  },
+  {
+    "Nome": "São Martinho - Parte dos Países Baixos",
+    "NomeIngles": "Sint Maarten (Dutch part)",
+    "NomeFrances": "Saint-Martin (partie néerlandaise)",
+    "CodigoIso3166Alpha2": "SX",
+    "CodigoIso3166Alpha3": "SXM",
+    "CodigoIso3166Numeric": "534"
+  },
+  {
+    "Nome": "Eslováquia",
+    "NomeIngles": "Slovakia",
+    "NomeFrances": "Slovaquie (la)",
+    "CodigoIso3166Alpha2": "SK",
+    "CodigoIso3166Alpha3": "SVK",
+    "CodigoIso3166Numeric": "703"
+  },
+  {
+    "Nome": "Eslovênia",
+    "NomeIngles": "Slovenia",
+    "NomeFrances": "Slovénie (la)",
+    "CodigoIso3166Alpha2": "SI",
+    "CodigoIso3166Alpha3": "SVN",
+    "CodigoIso3166Numeric": "705"
+  },
+  {
+    "Nome": "Ilhas Salomão",
+    "NomeIngles": "Solomon Islands",
+    "NomeFrances": "Salomon (les Îles)",
+    "CodigoIso3166Alpha2": "SB",
+    "CodigoIso3166Alpha3": "SLB",
+    "CodigoIso3166Numeric": "090"
+  },
+  {
+    "Nome": "Somália",
+    "NomeIngles": "Somalia",
+    "NomeFrances": "Somalie (la)",
+    "CodigoIso3166Alpha2": "SO",
+    "CodigoIso3166Alpha3": "SOM",
+    "CodigoIso3166Numeric": "706"
+  },
+  {
+    "Nome": "África do Sul",
+    "NomeIngles": "South Africa",
+    "NomeFrances": "Afrique du Sud (l')",
+    "CodigoIso3166Alpha2": "ZA",
+    "CodigoIso3166Alpha3": "ZAF",
+    "CodigoIso3166Numeric": "710"
+  },
+  {
+    "Nome": "Ilhas Geórgia do Sul e Sandwich do Sul",
+    "NomeIngles": "South Georgia and the South Sandwich Islands",
+    "NomeFrances": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
+    "CodigoIso3166Alpha2": "GS",
+    "CodigoIso3166Alpha3": "SGS",
+    "CodigoIso3166Numeric": "239"
+  },
+  {
+    "Nome": "Sudão do Sul (Sudão Meridional)",
+    "NomeIngles": "South Sudan",
+    "NomeFrances": "Soudan du Sud (le)",
+    "CodigoIso3166Alpha2": "SS",
+    "CodigoIso3166Alpha3": "SSD",
+    "CodigoIso3166Numeric": "728"
+  },
+  {
+    "Nome": "Espanha",
+    "NomeIngles": "Spain",
+    "NomeFrances": "Espagne (l')",
+    "CodigoIso3166Alpha2": "ES",
+    "CodigoIso3166Alpha3": "ESP",
+    "CodigoIso3166Numeric": "724"
+  },
+  {
+    "Nome": "Sri Lanka",
+    "NomeIngles": "Sri Lanka (Ceilão)",
+    "NomeFrances": "Sri Lanka",
+    "CodigoIso3166Alpha2": "LK",
+    "CodigoIso3166Alpha3": "LKA",
+    "CodigoIso3166Numeric": "144"
+  },
+  {
+    "Nome": "Sudão",
+    "NomeIngles": "Sudan (the)",
+    "NomeFrances": "Soudan (le)",
+    "CodigoIso3166Alpha2": "SD",
+    "CodigoIso3166Alpha3": "SDN",
+    "CodigoIso3166Numeric": "729"
+  },
+  {
+    "Nome": "Suriname",
+    "NomeIngles": "Suriname",
+    "NomeFrances": "Suriname (le)",
+    "CodigoIso3166Alpha2": "SR",
+    "CodigoIso3166Alpha3": "SUR",
+    "CodigoIso3166Numeric": "740"
+  },
+  {
+    "Nome": "Esvalbarda e Jan Mayen",
+    "NomeIngles": "Svalbard and Jan Mayen",
+    "NomeFrances": "Svalbard et l'Île Jan Mayen (le)",
+    "CodigoIso3166Alpha2": "SJ",
+    "CodigoIso3166Alpha3": "SJM",
+    "CodigoIso3166Numeric": "744"
+  },
+  {
+    "Nome": "Suécia",
+    "NomeIngles": "Sweden",
+    "NomeFrances": "Suède (la)",
+    "CodigoIso3166Alpha2": "SE",
+    "CodigoIso3166Alpha3": "SWE",
+    "CodigoIso3166Numeric": "752"
+  },
+  {
+    "Nome": "Suíça",
+    "NomeIngles": "Switzerland",
+    "NomeFrances": "Suisse (la)",
+    "CodigoIso3166Alpha2": "CH",
+    "CodigoIso3166Alpha3": "CHE",
+    "CodigoIso3166Numeric": "756"
+  },
+  {
+    "Nome": "Síria",
+    "NomeIngles": "Syrian Arab Republic (the)",
+    "NomeFrances": "République arabe syrienne (la)",
+    "CodigoIso3166Alpha2": "SY",
+    "CodigoIso3166Alpha3": "SYR",
+    "CodigoIso3166Numeric": "760"
+  },
+  {
+    "Nome": "Taiwan (Província da China)",
+    "NomeIngles": "Taiwan - Province of China",
+    "NomeFrances": "Taïwan (Province de Chine)",
+    "CodigoIso3166Alpha2": "TW",
+    "CodigoIso3166Alpha3": "TWN",
+    "CodigoIso3166Numeric": "158"
+  },
+  {
+    "Nome": "Tajiquistão (Tadjiquistão)",
+    "NomeIngles": "Tajikistan",
+    "NomeFrances": "Tadjikistan (le)",
+    "CodigoIso3166Alpha2": "TJ",
+    "CodigoIso3166Alpha3": "TJK",
+    "CodigoIso3166Numeric": "762"
+  },
+  {
+    "Nome": "Tanzânia",
+    "NomeIngles": "Tanzania, the United Republic of",
+    "NomeFrances": "Tanzanie (la République-Unie de)",
+    "CodigoIso3166Alpha2": "TZ",
+    "CodigoIso3166Alpha3": "TZA",
+    "CodigoIso3166Numeric": "834"
+  },
+  {
+    "Nome": "Tailândia",
+    "NomeIngles": "Thailand",
+    "NomeFrances": "Thaïlande (la)",
+    "CodigoIso3166Alpha2": "TH",
+    "CodigoIso3166Alpha3": "THA",
+    "CodigoIso3166Numeric": "764"
+  },
+  {
+    "Nome": "Timor-Leste",
+    "NomeIngles": "Timor-Leste",
+    "NomeFrances": "Timor-Leste (le)",
+    "CodigoIso3166Alpha2": "TL",
+    "CodigoIso3166Alpha3": "TLS",
+    "CodigoIso3166Numeric": "626"
+  },
+  {
+    "Nome": "Togo",
+    "NomeIngles": "Togo",
+    "NomeFrances": "Togo (le)",
+    "CodigoIso3166Alpha2": "TG",
+    "CodigoIso3166Alpha3": "TGO",
+    "CodigoIso3166Numeric": "768"
+  },
+  {
+    "Nome": "Toquelau",
+    "NomeIngles": "Tokelau",
+    "NomeFrances": "Tokelau (les)",
+    "CodigoIso3166Alpha2": "TK",
+    "CodigoIso3166Alpha3": "TKL",
+    "CodigoIso3166Numeric": "772"
+  },
+  {
+    "Nome": "Tonga",
+    "NomeIngles": "Tonga",
+    "NomeFrances": "Tonga (les)",
+    "CodigoIso3166Alpha2": "TO",
+    "CodigoIso3166Alpha3": "TON",
+    "CodigoIso3166Numeric": "776"
+  },
+  {
+    "Nome": "Trindade e Tobago",
+    "NomeIngles": "Trinidad and Tobago",
+    "NomeFrances": "Trinité-et-Tobago (la)",
+    "CodigoIso3166Alpha2": "TT",
+    "CodigoIso3166Alpha3": "TTO",
+    "CodigoIso3166Numeric": "780"
+  },
+  {
+    "Nome": "Tunísia",
+    "NomeIngles": "Tunisia",
+    "NomeFrances": "Tunisie (la)",
+    "CodigoIso3166Alpha2": "TN",
+    "CodigoIso3166Alpha3": "TUN",
+    "CodigoIso3166Numeric": "788"
+  },
+  {
+    "Nome": "Turquia",
+    "NomeIngles": "Türkiye",
+    "NomeFrances": "Türkiye (la)",
+    "CodigoIso3166Alpha2": "TR",
+    "CodigoIso3166Alpha3": "TUR",
+    "CodigoIso3166Numeric": "792"
+  },
+  {
+    "Nome": "Turcomenistão (Turquemenistão)",
+    "NomeIngles": "Turkmenistan",
+    "NomeFrances": "Turkménistan (le)",
+    "CodigoIso3166Alpha2": "TM",
+    "CodigoIso3166Alpha3": "TKM",
+    "CodigoIso3166Numeric": "795"
+  },
+  {
+    "Nome": "Ilhas Turcas e Caicos",
+    "NomeIngles": "Turks and Caicos Islands (the)",
+    "NomeFrances": "Turks-et-Caïcos (les Îles)",
+    "CodigoIso3166Alpha2": "TC",
+    "CodigoIso3166Alpha3": "TCA",
+    "CodigoIso3166Numeric": "796"
+  },
+  {
+    "Nome": "Tuvalu",
+    "NomeIngles": "Tuvalu",
+    "NomeFrances": "Tuvalu (les)",
+    "CodigoIso3166Alpha2": "TV",
+    "CodigoIso3166Alpha3": "TUV",
+    "CodigoIso3166Numeric": "798"
+  },
+  {
+    "Nome": "Uganda",
+    "NomeIngles": "Uganda",
+    "NomeFrances": "Ouganda (l')",
+    "CodigoIso3166Alpha2": "UG",
+    "CodigoIso3166Alpha3": "UGA",
+    "CodigoIso3166Numeric": "800"
+  },
+  {
+    "Nome": "Ucrânia",
+    "NomeIngles": "Ukraine",
+    "NomeFrances": "Ukraine (l')",
+    "CodigoIso3166Alpha2": "UA",
+    "CodigoIso3166Alpha3": "UKR",
+    "CodigoIso3166Numeric": "804"
+  },
+  {
+    "Nome": "Emirados Árabes Unidos",
+    "NomeIngles": "United Arab Emirates (the)",
+    "NomeFrances": "Émirats arabes unis (les)",
+    "CodigoIso3166Alpha2": "AE",
+    "CodigoIso3166Alpha3": "ARE",
+    "CodigoIso3166Numeric": "784"
+  },
+  {
+    "Nome": "Reino Unido (Grã-Bretanha, Inglaterra, Escócia, País de Gales, Irlanda do Norte)",
+    "NomeIngles": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "NomeFrances": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+    "CodigoIso3166Alpha2": "GB",
+    "CodigoIso3166Alpha3": "GBR",
+    "CodigoIso3166Numeric": "826"
+  },
+  {
+    "Nome": "Ilhas Menores Distantes dos Estados Unidos",
+    "NomeIngles": "United States Minor Outlying Islands (the)",
+    "NomeFrances": "Îles mineures éloignées des États-Unis (les)",
+    "CodigoIso3166Alpha2": "UM",
+    "CodigoIso3166Alpha3": "UMI",
+    "CodigoIso3166Numeric": "581"
+  },
+  {
+    "Nome": "Estados Unidos da América (EUA)",
+    "NomeIngles": "United States of America (the)",
+    "NomeFrances": "États-Unis d'Amérique (les)",
+    "CodigoIso3166Alpha2": "US",
+    "CodigoIso3166Alpha3": "USA",
+    "CodigoIso3166Numeric": "840"
+  },
+  {
+    "Nome": "Uruguai",
+    "NomeIngles": "Uruguay",
+    "NomeFrances": "Uruguay (l')",
+    "CodigoIso3166Alpha2": "UY",
+    "CodigoIso3166Alpha3": "URY",
+    "CodigoIso3166Numeric": "858"
+  },
+  {
+    "Nome": "Uzbequistão",
+    "NomeIngles": "Uzbekistan",
+    "NomeFrances": "Ouzbékistan (l')",
+    "CodigoIso3166Alpha2": "UZ",
+    "CodigoIso3166Alpha3": "UZB",
+    "CodigoIso3166Numeric": "860"
+  },
+  {
+    "Nome": "Vanuatu",
+    "NomeIngles": "Vanuatu",
+    "NomeFrances": "Vanuatu (le)",
+    "CodigoIso3166Alpha2": "VU",
+    "CodigoIso3166Alpha3": "VUT",
+    "CodigoIso3166Numeric": "548"
+  },
+  {
+    "Nome": "Venezuela",
+    "NomeIngles": "Venezuela (Bolivarian Republic of)",
+    "NomeFrances": "Venezuela (République bolivarienne du)",
+    "CodigoIso3166Alpha2": "VE",
+    "CodigoIso3166Alpha3": "VEN",
+    "CodigoIso3166Numeric": "862"
+  },
+  {
+    "Nome": "Vietnã",
+    "NomeIngles": "Viet Nam",
+    "NomeFrances": "Viet Nam (le)",
+    "CodigoIso3166Alpha2": "VN",
+    "CodigoIso3166Alpha3": "VNM",
+    "CodigoIso3166Numeric": "704"
+  },
+  {
+    "Nome": "Ilhas Virgens Britânicas",
+    "NomeIngles": "Virgin Islands (British)",
+    "NomeFrances": "Vierges britanniques (les Îles)",
+    "CodigoIso3166Alpha2": "VG",
+    "CodigoIso3166Alpha3": "VGB",
+    "CodigoIso3166Numeric": "092"
+  },
+  {
+    "Nome": "Ilhas Virgens Americanas",
+    "NomeIngles": "Virgin Islands (U.S.)",
+    "NomeFrances": "Vierges des États-Unis (les Îles)",
+    "CodigoIso3166Alpha2": "VI",
+    "CodigoIso3166Alpha3": "VIR",
+    "CodigoIso3166Numeric": "850"
+  },
+  {
+    "Nome": "Wallis e Futuna",
+    "NomeIngles": "Wallis and Futuna",
+    "NomeFrances": "Wallis-et-Futuna ",
+    "CodigoIso3166Alpha2": "WF",
+    "CodigoIso3166Alpha3": "WLF",
+    "CodigoIso3166Numeric": "876"
+  },
+  {
+    "Nome": "Saara Ocidental (Sahara Ocidental)",
+    "NomeIngles": "Western Sahara*",
+    "NomeFrances": "Sahara occidental (le)*",
+    "CodigoIso3166Alpha2": "EH",
+    "CodigoIso3166Alpha3": "ESH",
+    "CodigoIso3166Numeric": "732"
+  },
+  {
+    "Nome": "Iêmen",
+    "NomeIngles": "Yemen",
+    "NomeFrances": "Yémen (le)",
+    "CodigoIso3166Alpha2": "YE",
+    "CodigoIso3166Alpha3": "YEM",
+    "CodigoIso3166Numeric": "887"
+  },
+  {
+    "Nome": "Zâmbia",
+    "NomeIngles": "Zambia",
+    "NomeFrances": "Zambie (la)",
+    "CodigoIso3166Alpha2": "ZM",
+    "CodigoIso3166Alpha3": "ZMB",
+    "CodigoIso3166Numeric": "894"
+  },
+  {
+    "Nome": "Zimbábue",
+    "NomeIngles": "Zimbabwe",
+    "NomeFrances": "Zimbabwe (le)",
+    "CodigoIso3166Alpha2": "ZW",
+    "CodigoIso3166Alpha3": "ZWE",
+    "CodigoIso3166Numeric": "716"
+  }
+]
