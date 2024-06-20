@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@necnat.Abp.Br/nn-std-geolocalizacao": [
+        "projects/nn-std-geolocalizacao/src/public-api.ts"
+      ],
+      "@necnat.Abp.Br/nn-std-geolocalizacao/config": [
+        "projects/nn-std-geolocalizacao/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/nn-std-geolocalizacao/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/nn-std-geolocalizacao/src/lib/proxy/*"]
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Shared": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Shared/Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Domain": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Domain/Necnat.Abp.Br.NnStdGeolocalizacao.Domain.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Application.Contracts": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Application.Contracts/Necnat.Abp.Br.NnStdGeolocalizacao.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Application": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Application/Necnat.Abp.Br.NnStdGeolocalizacao.Application.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore/Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB/Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.TestBase": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.TestBase/Necnat.Abp.Br.NnStdGeolocalizacao.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore.Tests": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore.Tests/Necnat.Abp.Br.NnStdGeolocalizacao.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB.Tests": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB.Tests/Necnat.Abp.Br.NnStdGeolocalizacao.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Tests": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Tests/Necnat.Abp.Br.NnStdGeolocalizacao.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Application.Tests": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.Application.Tests/Necnat.Abp.Br.NnStdGeolocalizacao.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Host": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Host/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Web": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Web/Necnat.Abp.Br.NnStdGeolocalizacao.Web.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client.ConsoleTestApp/Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Web.Host": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.Web.Host/Necnat.Abp.Br.NnStdGeolocalizacao.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.AuthServer": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.AuthServer/Necnat.Abp.Br.NnStdGeolocalizacao.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Host.Shared": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.Host.Shared/Necnat.Abp.Br.NnStdGeolocalizacao.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Web.Unified": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.Web.Unified/Necnat.Abp.Br.NnStdGeolocalizacao.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Blazor": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Host": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Host/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.WebAssembly": {
+      "path": "src/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.WebAssembly/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server.Host": {
+      "path": "host/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server.Host/Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

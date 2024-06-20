@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  migrations:
+    build:
+      context: ../../
+      dockerfile: templates/service/database/Dockerfile
+    depends_on:
+      - sqlserver
+    environment:
+      - IdentityServer_DB=NnStdGeolocalizacao_Identity
+      - NnStdGeolocalizacao_DB=NnStdGeolocalizacao_ModuleDb
+      - SA_PASSWORD=yourStrong(!)Password

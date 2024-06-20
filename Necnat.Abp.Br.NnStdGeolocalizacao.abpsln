@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Necnat.Abp.Br.NnStdGeolocalizacao": {
+      "path": "Necnat.Abp.Br.NnStdGeolocalizacao.abpmdl"
+    }
+  }
+}

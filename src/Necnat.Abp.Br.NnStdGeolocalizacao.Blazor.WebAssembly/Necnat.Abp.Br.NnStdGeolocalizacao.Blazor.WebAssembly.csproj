@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+    <Import Project="..\..\common.props" />
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Volo.Abp.AspNetCore.Components.WebAssembly.Theming" Version="8.1.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Necnat.Abp.Br.NnStdGeolocalizacao.Blazor\Necnat.Abp.Br.NnStdGeolocalizacao.Blazor.csproj" />
+        <ProjectReference Include="..\Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client\Necnat.Abp.Br.NnStdGeolocalizacao.HttpApi.Client.csproj" />
+    </ItemGroup>
+
+</Project>
